@@ -2,9 +2,8 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; color: #ff79c6; font-size: 3em;">Welcome :)</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7831bd7b-0756-4677-a498-258eec72eac9" alt="Synthwave Vibes" width="400"/>
+  <img src="https://github.com/user-attachments/assets/65672fb2-3377-4d3e-bd51-8637c540c008" alt="Synthwave Vibes" width="400"/>
 </div>
-
 
 <br />
 
