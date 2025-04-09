@@ -20,11 +20,12 @@ Hey there, I'm **Daan**, a developer with a love for everything **retro**. I enj
 ### Skills
 
 - **Languages**: C#, PHP, JavaScript, SQL, HTML, CSS
-- **Backend**: ASP.NET Core, Laravel (with Breeze), REST APIs
+- **Backend**: ASP.NET Core, Laravel (with Breeze), REST APIs, C# Web Development (Web APIs, MVC)
 - **Frontend**: WPF/WinForms, Blade, Vue.js, Bootstrap, Tailwind CSS, Alpine.js, some Blazor, some React.js
 - **Frameworks & Libraries**: Entity Framework, Dapper, SignalR
 - **Tools & Utilities**: Git, Postman, Swagger/Swashbuckle, Composer, Artisan CLI
 - **Databases**: SQL Server, MySQL
+
 
 <br />
 <!-- Footer Section -->
