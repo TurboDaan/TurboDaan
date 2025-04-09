@@ -18,11 +18,13 @@ Hey there, I'm **Daan**, a developer with a love for everything **retro**. I enj
 
 <!-- Skills Section -->
 ### Skills
-- **Frontend**: HTML, CSS, JavaScript, WPF/WinForms
-- **Backend**: C#, PHP, Laravel Breeze, REST APIs
-- **Frameworks & Libraries**: ASP.NET Core, Blazor, React.js
-- **Version Control**: Git
-- **Other**: SQL Server, Entity Framework
+
+- **Languages**: C#, PHP, JavaScript, SQL, HTML, CSS
+- **Backend**: ASP.NET Core, Laravel (with Breeze), REST APIs
+- **Frontend**: WPF/WinForms, Blade, Vue.js, Bootstrap, Tailwind CSS, Alpine.js, some Blazor, some React.js
+- **Frameworks & Libraries**: Entity Framework, Dapper, SignalR
+- **Tools & Utilities**: Git, Postman, Swagger/Swashbuckle, Composer, Artisan CLI
+- **Databases**: SQL Server, MySQL
 
 <br />
 <!-- Footer Section -->
