@@ -24,7 +24,7 @@ Hey there, I'm **Daan**, a developer with a love for everything **retro**. I enj
 - **Frontend**: WPF/WinForms, Blade, Vue.js, Bootstrap, Tailwind CSS, Alpine.js, some Blazor, some React.js
 - **Frameworks & Libraries**: Entity Framework, Dapper, SignalR
 - **Tools & Utilities**: Git, Postman, Swagger/Swashbuckle, Composer, Artisan CLI
-- **Databases**: SQL Server, MySQL
+- **Databases**: MySQL, MongoDB
 
 
 <br />
